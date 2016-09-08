@@ -1,5 +1,5 @@
 body {
-  background-color: #a0c0ff;
+  background-color: #b0d0ff;
 }
 
 a.btn.btn-custom {
@@ -52,4 +52,20 @@ img {
 
 img:hover {
   border: solid 2px #203E5F;
+}
+
+#portfolio {
+  border-top: double;
+  border-bottom: double;
+}
+
+.portfolio_item {
+  width:90%;
+  align-self: center;
+  border-bottom: solid 1px;
+}
+
+.portfolio_item_last {
+  width:90%;
+  align-self: center;
 }
