@@ -55,17 +55,17 @@ img:hover {
 }
 
 #portfolio {
+  position: relative;
   border-top: double;
   border-bottom: double;
 }
 
 .portfolio_item {
-  width:90%;
-  align-self: center;
-  border-bottom: solid 1px;
+  position: relative;
+  border: solid 1px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .portfolio_item_last {
-  width:90%;
-  align-self: center;
 }
