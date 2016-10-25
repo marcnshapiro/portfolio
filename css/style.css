@@ -68,4 +68,8 @@ img:hover {
 }
 
 .portfolio_item_last {
+  position: absolute;
+  border: solid 1px;
+  padding: 0px;
+  margin: 0px;
 }
